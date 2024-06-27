@@ -1,4 +1,4 @@
-# Mushroom dataset
+# Mushroom images dataset
 A collection of JPG images of mushrooms of the Northeast Univted States.
 Inteneded to be used for image classification in deep learning
 
